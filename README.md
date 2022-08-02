@@ -1,9 +1,9 @@
-# NLP: Sentiment Analysis
----
+# Sentiment Analysis
 
-Deri Afrianda
+### Desc:
+Just my personal learning repo, previously my Natural Language Processing class's Task
 
-Link YT:
+### Link YT:
 
 lr: https://www.youtube.com/watch?v=CwXQfVvv_3U&t=4s
 
